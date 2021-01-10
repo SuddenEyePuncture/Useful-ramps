@@ -23,9 +23,10 @@ WWWWW  (wall on level 0, roof on level 1)
 
 H H H H H  (high end of a ramp)
 
-L  L  L  L  L  (low end of a ramp)
+L   L   L   L   L  (low end of a ramp)
 
 Such ramp could move vehicles up to 5 tiles wide.
 
 What have you changed?
+
 Vanilla ramps require small pits to be constructed, making it impossible to build it underground or on the roof. I've made an alternative recipe without a small pit as a necessity.
