@@ -21,9 +21,9 @@ In the end it would look like this:
 
 WWWWW  (wall on level 0, roof on level 1)
 
-HHHHH  (high end of a ramp)
+H H H H H  (high end of a ramp)
 
-LLLLL  (low end of a ramp)
+L  L  L  L  L  (low end of a ramp)
 
 Such ramp could move vehicles up to 5 tiles wide.
 
