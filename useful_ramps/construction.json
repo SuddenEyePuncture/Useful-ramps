@@ -20,7 +20,7 @@
     "id": "constr_concrete_ramp_high_1",
     "group": "build_high_end_of_a_concrete_ramp",
     "//": "Builds a high end of a concrete ramp going up on this level and down on the level above.",
-    "pre_note": "Build a concrete ramp leading to the next z-level above, and the corresponding ramp down leading from the z-level above to this level.  It must be built next to a low end of a ramp to allow moving between z-levels in both directions.",
+    "pre_note": "Build a low end ramp leading to the next z-level above, and the corresponding ramp down leading from the z-level above to this level.  It must be built next to a low end of a ramp to allow moving between z-levels in both directions.",
     "category": "DIG",
     "required_skills": [ [ "fabrication", 3 ] ],
     "time": "150 m",
