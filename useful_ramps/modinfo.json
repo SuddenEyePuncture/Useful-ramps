@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Useful ramps",
+    "name": "Useful ramps",
+    "authors": [ "SuddenEyePuncture" ],
+    "description": "Now you can build ramps on any flat surface.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
